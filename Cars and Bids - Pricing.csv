@@ -1,64 +1,65 @@
-1983 Porsche 911 SC Targa,"$46,000.00"
-1984 Porsche 911 Carrera Targa,"$46,194.00"
-1994 Porsche 911 Carrera 2 Cabriolet,"$100,001.00"
-1989 Porsche 911 Turbo Coupe,"$120,000.00"
-1995 Porsche 911 Carrera Coupe,"$67,500.00"
-1983 Porsche 911 SC Cabriolet,"$38,200.00"
-1986 Porsche 911 Carrera Targa,"$51,000.00"
-1997 Porsche 911 Turbo S Coupe,"$550,000.00"
-1995 Porsche 911 Carrera Coupe,"$70,000.00"
-1987 Porsche 911 Carrera Coupe,"$65,500.00"
-1997 Porsche 911 Carrera Cabriolet,"$50,500.00"
-1997 Porsche 911 Turbo Coupe,"$155,500.00"
-1991 Porsche 911 Carrera 4 Cabriolet,"$41,964.00"
-1990 Porsche 911 Carrera 4 Cabriolet,"$40,750.00"
-1997 Porsche 911 Turbo,"$145,000.00"
-1982 Porsche 911 SC Targa,"$45,000.00"
-1985 Porsche 911 Carrera Cabriolet,"$37,000.00"
-1997 Porsche 911 Carrera 4S Coupe,"$101,500.00"
-1995 Porsche 911 Carrera Coupe,"$79,500.00"
-1997 Porsche 911 Carrera Coupe,"$81,000.00"
-1986 Porsche 911 Carrera Targa,"$41,250.00"
-1995 Porsche 911 Carrera Coupe,"$110,000.00"
-1987 Porsche 911 Turbo Coupe,"$88,500.00"
-1982 Porsche 911 SC,"$113,500.00"
-1996 Porsche 911 Carrera Coupe,"$79,500.00"
-1987 Porsche 911 Turbo Coupe,"$97,000.00"
-1988 Porsche 911 Carrera Cabriolet,"$46,250.00"
-1996 Porsche 911 Turbo,"$187,993.00"
-1983 Porsche 911 SC Cabriolet,"$37,509.00"
-1995 Porsche 911 Carrera Coupe,"$67,000.00"
-1996 Porsche 911 Turbo,"$180,000.00"
-1985 Porsche 911 Carrera Targa,"$63,000.00"
-1996 Porsche 911 Carrera 4 Cabriolet,"$40,993.00"
-1983 Porsche 911 SC Cabriolet,"$35,250.00"
-1988 Porsche 911 Carrera Cabriolet,"$54,200.00"
-1985 Porsche 911 Turbo,"$70,500.00"
-1984 Porsche 911 Carrera Cabriolet,"$60,000.00"
-1992 Porsche 911 Turbo,"$175,964.00"
-1989 Porsche 911 Turbo Coupe,"$151,000.00"
-1981 Porsche 911 SC Targa,"$29,000.00"
-1996 Porsche 911 Carrera Coupe,"$54,000.00"
-1991 Porsche 911 Turbo Coupe,"$95,000.00"
-1995 Porsche 911 Carrera Cabriolet,"$48,000.00"
-1988 Porsche 911 Turbo Cabriolet,"$34,500.00"
-1998 Porsche 911 Carrera 4 Cabriolet,"$120,000.00"
-1997 Porsche 911 Targa,"$60,000.00"
-1997 Porsche 911 Carrera 4 Cabriolet,"$48,250.00"
-1997 Porsche 911 Carrera 4 Cabriolet,"$52,250.00"
-1997 Porsche 911 Carrera Cabriolet,"$46,500.00"
-1996 Porsche 911 Carrera 4S,"$92,500.00"
-1988 Porsche 911 Carrera Cabriolet,"$37,000.00"
-1986 Porsche 911 Carrera Cabriolet,"$28,138.00"
-1988 Porsche 911 Carrera Cabriolet,"$40,505.00"
-1991 Porsche 911 Carrera 4 Cabriolet,"$42,500.00"
-1996 Porsche 911 Carrera,"$59,000.00"
-1986 Porsche 911 Turbo,"$65,000.00"
-1987 Porsche 911 Carrera Coupe,"$41,250.00"
-1983 Porsche 911SC Coupe,"$37,350.00"
-1988 Porsche 911 Carrera Cabriolet,"$47,250.00"
-1983 Porsche 911 SC Coupe,"$39,250.00"
-1986 Porsche 911 Carerra Cabriolet,"$30,000.00"
-1984 Porsche 911 Targa,"$30,250.00"
-1984 Porsche 911 Carrera Coupe,"$33,900.00"
-1987 Porsche 911 Turbo Coupe,"$46,000.00"
+Car,Price,Date Sold
+1983 Porsche 911 SC Targa,"46,000",2/7/24
+1984 Porsche 911 Carrera Targa,"46,194",1/22/24
+1994 Porsche 911 Carrera 2 Cabriolet,"100,001",12/19/23
+1989 Porsche 911 Turbo Coupe,"120,000",12/1/23
+1995 Porsche 911 Carrera Coupe,"67,500",11/20/23
+1983 Porsche 911 SC Cabriolet,"38,200",10/19/23
+1986 Porsche 911 Carrera Targa,"51,000",10/17/23
+1997 Porsche 911 Turbo S Coupe,"550,000",10/16/23
+1995 Porsche 911 Carrera Coupe,"70,000",9/28/23
+1987 Porsche 911 Carrera Coupe,"65,500",9/19/23
+1997 Porsche 911 Carrera Cabriolet,"50,500",8/31/23
+1997 Porsche 911 Turbo Coupe,"155,500",8/25/23
+1991 Porsche 911 Carrera 4 Cabriolet,"41,964",8/21/23
+1990 Porsche 911 Carrera 4 Cabriolet,"40,750",8/14/23
+1997 Porsche 911 Turbo,"145,000",8/11/23
+1982 Porsche 911 SC Targa,"45,000",8/3/23
+1985 Porsche 911 Carrera Cabriolet,"37,000",7/28/23
+1997 Porsche 911 Carrera 4S Coupe,"101,500",7/21/23
+1995 Porsche 911 Carrera Coupe,"79,500",7/12/23
+1997 Porsche 911 Carrera Coupe,"81,000",7/5/23
+1986 Porsche 911 Carrera Targa,"41,250",7/3/23
+1995 Porsche 911 Carrera Coupe,"110,000",6/27/23
+1987 Porsche 911 Turbo Coupe,"88,500",6/22/23
+1982 Porsche 911 SC,"113,500",6/16/23
+1996 Porsche 911 Carrera Coupe,"79,500",6/13/23
+1987 Porsche 911 Turbo Coupe,"97,000",5/22/23
+1988 Porsche 911 Carrera Cabriolet,"46,250",5/2/23
+1996 Porsche 911 Turbo,"187,993",4/26/23
+1983 Porsche 911 SC Cabriolet,"37,509",4/13/23
+1995 Porsche 911 Carrera Coupe,"67,000",4/7/23
+1996 Porsche 911 Turbo,"180,000",4/5/23
+1985 Porsche 911 Carrera Targa,"63,000",3/31/23
+1996 Porsche 911 Carrera 4 Cabriolet,"40,993",3/20/23
+1983 Porsche 911 SC Cabriolet,"35,250",3/15/23
+1988 Porsche 911 Carrera Cabriolet,"54,200",11/25/22
+1985 Porsche 911 Turbo,"70,500",10/20/22
+1984 Porsche 911 Carrera Cabriolet,"60,000",9/19/22
+1992 Porsche 911 Turbo,"175,964",9/16/22
+1989 Porsche 911 Turbo Coupe,"151,000",7/29/22
+1981 Porsche 911 SC Targa,"29,000",7/12/22
+1996 Porsche 911 Carrera Coupe,"54,000",6/10/22
+1991 Porsche 911 Turbo Coupe,"95,000",6/6/22
+1995 Porsche 911 Carrera Cabriolet,"48,000",5/11/22
+1988 Porsche 911 Turbo Cabriolet,"34,500",5/9/22
+1998 Porsche 911 Carrera 4 Cabriolet,"120,000",4/18/22
+1997 Porsche 911 Targa,"60,000",3/29/22
+1997 Porsche 911 Carrera 4 Cabriolet,"48,250",2/2/22
+1997 Porsche 911 Carrera 4 Cabriolet,"52,250",12/22/21
+1997 Porsche 911 Carrera Cabriolet,"46,500",10/21/21
+1996 Porsche 911 Carrera 4S,"92,500",10/18/21
+1988 Porsche 911 Carrera Cabriolet,"37,000",10/12/21
+1986 Porsche 911 Carrera Cabriolet,"28,138",9/29/21
+1988 Porsche 911 Carrera Cabriolet,"40,505",9/21/21
+1991 Porsche 911 Carrera 4 Cabriolet,"42,500",8/25/21
+1996 Porsche 911 Carrera,"59,000",5/19/21
+1986 Porsche 911 Turbo,"65,000",5/3/21
+1987 Porsche 911 Carrera Coupe,"41,250",3/31/21
+1983 Porsche 911SC Coupe,"37,350",3/24/21
+1988 Porsche 911 Carrera Cabriolet,"47,250",1/29/21
+1983 Porsche 911 SC Coupe,"39,250",12/21/20
+1986 Porsche 911 Carerra Cabriolet,"30,000",9/25/20
+1984 Porsche 911 Targa,"30,250",8/19/20
+1984 Porsche 911 Carrera Coupe,"33,900",8/7/20
+1987 Porsche 911 Turbo Coupe,"46,000",8/6/20

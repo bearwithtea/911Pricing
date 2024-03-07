@@ -1,22 +1,17 @@
-import csv
+import pandas as pd
+import matplotlib.pyplot as plt
 
-# Path: main.py
+headers = ['Car', 'Price', 'Year Sold']
 
-file = open('Cars and Bids - Pricing.csv', 'r')
-type(file)
+df = pd.read_csv('Cars and Bids - Pricing.csv', names=headers)
 
-csvreader = csv.reader(file)
+df['Price'] = pd.to_numeric(df['Price'], errors='coerce')
 
-header = []
-header = next(csvreader)
-header
+df.set_index('Car', inplace=True)
 
-rows = []
+plt.rcParams["figure.figsize"] = [7.50, 3.50]
+plt.rcParams["figure.autolayout"] = True
 
-for row in csvreader: 
-    rows.append(row)
-    rows
+df.plot(kind='line', title='Car Prices', color='blue', marker='o', fontsize=10, rot=90, legend=False)
 
-print (rows)
-
-file.close()
+plt.show()
