@@ -1,17 +1,22 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import numpy as np
+import seaborn as sns
 
-headers = ['Car', 'Price', 'Year Sold']
+data = pd.read_csv('Cars and Bids - Pricing.csv')
 
-df = pd.read_csv('Cars and Bids - Pricing.csv', names=headers)
+data['Date Sold'] = pd.to_datetime(data['Date Sold'])
 
-df['Price'] = pd.to_numeric(df['Price'], errors='coerce')
+start_date = '2020-01-01'
+end_date = '2022-12-31'
+mask = (data['Date Sold'] > start_date) & (data['Date Sold'] <= end_date)
+data = data.loc[mask]
 
-df.set_index('Car', inplace=True)
+data = data.sort_values('Price')
 
-plt.rcParams["figure.figsize"] = [7.50, 3.50]
-plt.rcParams["figure.autolayout"] = True
-
-df.plot(kind='line', title='Car Prices', color='blue', marker='o', fontsize=10, rot=90, legend=False)
-
-plt.show()
+plt.figure(figsize=(10, 6))
+plt.plot(data['Date Sold'], data['Price']) 
+plt.title('930, 964, and 993 Prices') 
+plt.xlabel('Date Sold') 
+plt.ylabel('Price') 
+plt.show() 
