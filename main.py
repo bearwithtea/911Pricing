@@ -2,7 +2,7 @@ import csv
 
 # Path: main.py
 
-file = open('data.csv', 'r')
+file = open('Cars and Bids - Pricing.csv', 'r')
 type(file)
 
 csvreader = csv.reader(file)
@@ -16,5 +16,7 @@ rows = []
 for row in csvreader: 
     rows.append(row)
     rows
+
+print (rows)
 
 file.close()
