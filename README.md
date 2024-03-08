@@ -14,7 +14,7 @@
 <hr>
 
 ## Webscraping
-<p> This turned out to be significantly harder than I thought, because, as it turns out, web scraping isn't just copying a bunch of HTML elements.</p> 
+<p> This turned out to be significantly harder than I thought, because, as it turns out, web scraping isn't as easy as turning a Chrome extension onto a website like I originally expected.</p> 
 <p> Eventually, I had to turn to <a href = "https://www.webscraper.io/"> webscraper.io</a>. This was a fanastic tool to grab basic text information, which I set-up to grab the name of the car, the price, and when it was sold. I then exported it into a Numbers file, where I could organize it and put it into a CSV. </p>
 
 <img width="1901" alt="Screenshot 2024-03-08 at 1 12 07 PM" src="https://github.com/bearwithtea/CarsandBids-911-Prices/assets/132114816/13c2858f-63ba-4900-ab7b-def90c93afbd">
