@@ -43,4 +43,4 @@ https://github.com/bearwithtea/CarsandBids-911-Prices/assets/132114816/f1d03efe-
 <hr>
 
 ## Results
-<p> This was not what I was expecting the data to look like. There's room for more analysis, but just at a brief glance, it doesn't look like prices are shooting up beyond attainability, which is good news for my dream of acquiring one. </p>
+<p> This was not what I was expecting the data to look like. There's room for more analysis, but just at a brief glance, it doesn't look like prices are shooting up beyond attainability, which is good news for my dream of acquiring one. An important thing to note is that the prices stayed steady throughout the pandemic which is indicative of the strength of the market. </p>
