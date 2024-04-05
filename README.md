@@ -3,7 +3,7 @@
 
 ![KVb8J18Y-qrWlgVeb5J-(edit)](https://github.com/bearwithtea/CarsandBids-911-Prices/assets/132114816/b2c54a3e-1088-4cee-8a37-9dbd0562d4d0)
 
-<p> The 930, 964, and 993 generations provide a driving experience that will never be seen again. With iconic, historied styling, powerful and dangerous engines, and a archive of <span><i>Rennsport</i></span> victories, these cars are every enthusiasts dream, whether they admit it or not. </p>
+<p> The 930, 964, and 993 generations provide a driving experience that will never be seen again. With iconic, historied styling, powerful and dangerous engines, and an archive of <span><i>Rennsport</i></span> victories, these cars are every enthusiasts dream, whether they admit it or not. </p>
 
 <p> Since they are every enthusiasts dream, the prices reflect their demand. This piqued my curiosity as I wanted to know if there was a chance I could ever own one. </p>
 
