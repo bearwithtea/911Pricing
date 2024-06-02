@@ -5,7 +5,7 @@
 
 <p> The 930, 964, and 993 generations provide a driving experience that will never be seen again. With iconic and historied styling, powerful and dangerous engines, and an archive of <span><i>Rennsport</i></span> victories, these cars are every enthusiasts dream, whether they admit it or not. </p>
 
-<p> Since they are every enthusiasts dream, the prices reflect their demand. This piqued my curiosity as I wanted to know if there was a chance I could ever own one. </p>
+<p> Since they are every enthusiasts dream, the prices of the cars reflect their demand. This piqued my curiosity as I wanted to know if there was a chance I could ever own one. </p>
 
 <p> My favorite auction house for cool, modern cars is Doug Demuro's <a href = "https://carsandbids.com/"> Cars and Bids</a> which focuses on cars newer than 1980, and has seen everything from bizzare Japanese <a href = "https://en.wikipedia.org/wiki/Kei_car"> Kei Cars</a> to Mclaren's insane hypercar, the <a href = "https://carsandbids.com/auctions/K14va7qM/2014-mclaren-p1"> P1.</a> I keep a hawkish eye on Porsche sales, just to see how the market is trending and if I will ever be able to get my hands on the incredible Porsche 911 964 Turbo S (pictured above). </p>
 
