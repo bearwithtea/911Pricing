@@ -7,7 +7,7 @@
 
 <p> Since they are every enthusiasts dream, the prices of the cars reflect their demand. This piqued my curiosity as I wanted to know if there was a chance I could ever own one. </p>
 
-<p> My favorite auction house for cool, modern cars is Doug Demuro's <a href = "https://carsandbids.com/"> Cars and Bids</a> which focuses on cars newer than 1980, and has seen everything from bizzare Japanese <a href = "https://en.wikipedia.org/wiki/Kei_car"> Kei Cars</a> to Mclaren's insane hypercar, the <a href = "https://carsandbids.com/auctions/K14va7qM/2014-mclaren-p1"> P1.</a> I keep a hawkish eye on Porsche sales, just to see how the market is trending and if I will ever be able to get my hands on the incredible Porsche 911 964 Turbo S (pictured above). </p>
+<p> My favorite auction house for cool, modern cars is Doug Demuro's <a href = "https://carsandbids.com/"> Cars and Bids</a> which focuses on cars newer than 1980, and has seen everything from bizzare Japanese <a href = "https://en.wikipedia.org/wiki/Kei_car"> Kei Cars</a> to Mclaren's insane hypercar, the <a href = "https://carsandbids.com/auctions/K14va7qM/2014-mclaren-p1"> P1.</a> I keep a very close eye on Porsche sales, just to see how the market is trending and if I will ever be able to get my hands on the incredible Porsche 911 964 Turbo S (pictured above). </p>
 
 <p> After a lot of stalking, I wanted to be able to put some numbers to my market predictions (which weren't great). My tool set for this included a <a href = "https://www.webscraper.io/"> a webscraper</a>, Python, Pandas, and MatPlotLib. </p>
 
